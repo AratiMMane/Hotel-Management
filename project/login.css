@@ -1,0 +1,25 @@
+body{
+    background-image: url("backimg.avif") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#log{
+    display: flex;
+    margin-top: 130px;
+    margin-left: 600px;
+    width: 300px;
+    height: 400px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(235, 239, 234, 0.268);
+    color: rgb(18, 18, 18);
+    border: 5px solid rgba(24, 24, 24, 0.905);
+    box-shadow: 10px 0 0 solid black;
+
+}
+
+    
+
